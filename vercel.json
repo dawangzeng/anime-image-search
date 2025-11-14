@@ -23,10 +23,5 @@
         }
       ]
     }
-  ],
-  "functions": {
-    "index.html": {
-      "runtime": "@vercel/static"
-    }
-  }
+  ]
 }
